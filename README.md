@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently working on ... to enhance myself
 - 🌱 I’m currently learning ... python 
 - 👯 I’m looking to collaborate on ... python developer
 - 🤔 I’m looking for help with ... AI & Data science
