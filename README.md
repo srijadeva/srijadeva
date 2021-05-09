@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... to enhance myself
+- 🔭 I’m currently working on ... python,c
 - 🌱 I’m currently learning ... python 
-- 👯 I’m looking to collaborate on ... python developer
-- 🤔 I’m looking for help with ... AI & Data science
+- 👯 I’m looking to collaborate on ... python developer& Data Analyst
+- 🤔 I’m looking for help with ...  python
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ... linkedIn
 - 😄 Pronouns: ... she/her
